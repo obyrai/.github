@@ -1,1 +1,1 @@
-### 📖 [Офіційна документація](https://github.com/obyrai/.github/wiki)
+### 📖 [Офіційна документація](https://github.com/obyrai/obyrai-survey/wiki)
